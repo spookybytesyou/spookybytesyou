@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-```zsh
+```csharp
 spooky@github
 -------------
 OS: Arch Linux x86_64
