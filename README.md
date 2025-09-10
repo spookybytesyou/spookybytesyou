@@ -2,6 +2,8 @@
 > neofetch
 ```
 
+<img align="left" src="https://media1.tenor.com/m/DubAh9iLlc8AAAAC/evangelion-neon-genesis-evangelion.gif" width="400" /> 
+
 ```csharp
 spooky@github
 -------------
@@ -12,9 +14,9 @@ Commits:
 Pull Requests:
 ```
 
-<div align="right">
-  <h3 align="right">Listening to&emsp;&emsp;&emsp;&emsp;&emsp;</h3>
-    
+<h3 align="center">Currently Listening to</h3>
+<div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9kmn4up7rvygdg0act5muu91t&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
